@@ -1,0 +1,29 @@
+.page-title {
+	font-size: 42px;
+	font-family: 'Nothing You Could Do', cursive;
+	text-align: center;
+	margin: 4px;
+	flex-grow: 1;
+	margin-bottom: 400px;
+	color: #425F57;
+}
+
+.header ul {
+	display: flex;
+	justify-content: space-between;
+	padding: 8px;
+	margin: 4px;
+	flex-basis: 50px;
+	flex-grow: 1;
+	font-family: 'Inconsolata', monospace;
+	font-size: 16px;
+	list-style: none;
+}
+
+.header {
+	background-color: #DFE8CC;
+	margin: 4px;
+}
+
+
+

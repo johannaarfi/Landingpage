@@ -1,0 +1,15 @@
+.btn-product {
+	text-decoration: none;
+	padding: 8px 24px;
+	color: black;
+	border-radius: 3px;
+	font-family: 'Inconsolata', monospace;
+	background-color: #DAE2B6;
+}
+
+.btn-product:hover {
+	background-color: #CCD6A6;
+	transition: 0,8s;
+	color: white;
+}
+

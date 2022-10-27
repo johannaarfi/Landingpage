@@ -1,0 +1,12 @@
+.btn-header {
+	text-decoration: none;
+	padding: 8px 24px;
+	color: black;
+	border-radius: 3px;
+}
+
+.btn-header:hover {
+	background-color: #CCD6A6;
+	transition: 0,8s;
+	color: white;
+}

@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Inconsolata:wght@300&family=Nothing+You+Could+Do&family=Roboto+Mono:wght@200;300;400&family=Roboto:wght@300&display=swap');
+
+@import url("Components/banner.css");
+@import url("Components/container.css");
+@import url("Components/header.css");
+@import url("Components/logo-header.css");
+@import url("Components/btn-header.css");
+@import url("Components/card-picture.css");
+@import url("Components/card-product.css");
+@import url("Components/card-grid.css");
+@import url("Components/btn-product.css");
+@import url("Components/team.css");
+@import url("Components/card-white.css");
+
+
+
+/*h1{
+	font-family: 'Inconsolata', monospace;
+}*/
+
+h2 {
+	font-family:  'Roboto', sans-serif;
+}
+
+body{
+	margin: 0px;
+}
+

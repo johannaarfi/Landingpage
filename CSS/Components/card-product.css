@@ -1,0 +1,29 @@
+.card-product {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	background-color: white;
+	padding: 8px;
+	box-shadow: 0px 20px 30px rgba(30, 30, 30, 0.5);
+	border-radius: 8px;
+	margin: 10px;
+	flex-basis: 500px;
+	flex-grow: 1;
+}
+
+.card-product img {
+	width: 170px;
+	height: 150px;
+	border-radius: 4px;
+}
+
+.card-product h2 {
+	font-size: 18px;
+	text-align: center;
+}
+
+
+.card-grid {
+	display: flex;
+	flex-wrap: wrap;
+}

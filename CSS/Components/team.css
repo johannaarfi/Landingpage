@@ -1,0 +1,16 @@
+.team h2 {
+	font-size: 32px;
+	font-family: 'Inconsolata', monospace;;
+}
+
+.team {
+	display: flex;
+}
+
+.team img {
+	margin: 12px;
+	border-radius: 50%;
+	margin-top: 100px;
+	align-items: center;
+}
+
